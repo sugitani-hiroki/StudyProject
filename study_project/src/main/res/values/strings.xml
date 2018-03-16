@@ -1,4 +1,3 @@
-
 <resources>
     <string name="app_name">StudyProject</string>
     <string name="button1">アプリ終了</string>
@@ -8,4 +7,5 @@
     <string name="message">終了しますがよろしいですか？</string>
     <string name="ok">OK</string>
     <string name= "cancel">Cancel</string>
+    <string name="fragment1">Fragment1</string>
 </resources>
